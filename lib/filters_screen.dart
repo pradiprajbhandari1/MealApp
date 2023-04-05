@@ -12,7 +12,7 @@ static const routeName ='/filters';
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Your Filters'),
+      appBar: AppBar(title: const Text('Filters'),
       ),
       drawer: const MainDrawer(),
       body: const Center(
